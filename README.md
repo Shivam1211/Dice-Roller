@@ -2,9 +2,7 @@
 
 A simple app which mimics rolling of dice.
 
-<div align="center">
-    <img src="https://drive.google.com/file/d/1ZhtxaBF7qGgi8SdkkmyoEbfRYGuxwG-r/view" width="400px" height="700px"></img> 
-</div>
+[Screenshot](https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2018/11/google-one-hero.jpg?itok=uECiAKcc)
 
 
 
