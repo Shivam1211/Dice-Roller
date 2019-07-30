@@ -3,7 +3,7 @@
 A simple app which mimics rolling of dice.
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1ZhtxaBF7qGgi8SdkkmyoEbfRYGuxwG-r/view" width="400px"</img> 
+    <img src="https://drive.google.com/file/d/1ZhtxaBF7qGgi8SdkkmyoEbfRYGuxwG-r/view" width="400px"></img> 
 </div>
 
 
